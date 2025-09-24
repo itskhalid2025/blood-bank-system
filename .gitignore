@@ -1,0 +1,9 @@
+```plaintext
+config/db_connect.php
+vendor/
+*.log
+*.cache
+*.tmp
+.idea/
+.vscode/
+```
