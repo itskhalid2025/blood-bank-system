@@ -1,8 +1,8 @@
-# Blood Bank Management System
+## Blood Bank Management System
 
 A full-stack web application for managing blood donors, recipients, and blood requests. Built with PHP, MySQL, and a responsive UI, this system supports basic user management and search functionality.
 
-📖 Table of Contents
+## 📖 Table of Contents
 
 * Project Overview
 * Features
@@ -13,7 +13,13 @@ A full-stack web application for managing blood donors, recipients, and blood re
 * Contributing
 * License
 
-📋 Project Overview
+---
+
+<img width="1865" height="894" alt="image" src="https://github.com/user-attachments/assets/fe6a6755-dccd-4296-b51e-6059870b6b22" />
+
+---
+
+## 📋 Project Overview
 The Blood Bank Management System is designed to facilitate blood donation and request management by providing a simple and secure platform. Users can register as donors, search for blood by group and location, and manage their profiles. The application is built with PHP for the backend, MySQL for data storage, and styled with CSS for a responsive interface.
 
 ✨ Features
@@ -23,6 +29,7 @@ The Blood Bank Management System is designed to facilitate blood donation and re
 * Secure Sessions: Basic session management for user tracking.
 * Responsive UI: Optimized for desktop and mobile devices using custom CSS.
 
+```
 Healthcare-Management-System/
 ├── frontend_dev/                # Frontend code (React, HTML, CSS, Bootstrap)
 │   ├── src/                    # React components, styles, and assets
@@ -36,6 +43,7 @@ Healthcare-Management-System/
 ├── README.md                   # Project documentation
 └── .gitignore                  # Git ignore file
 
+```
 
 🛠 Technologies Used
 
